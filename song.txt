@@ -5,3 +5,6 @@ but it is only part
 now this is it I`m finished my favourite song
 
 this is first commit in branch
+
+
+and now I add second commit in branch
